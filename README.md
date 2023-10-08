@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neyvalentim
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning diferent types of languagues 
+- 🌱 I’m currently learning different types of languagues 
 - 📫 How to reach me ney_valentim@hotmail.com
 
 <!---
